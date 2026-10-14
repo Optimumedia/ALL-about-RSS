@@ -1780,6 +1780,7 @@ So a new user can see something other than a wall of raw XML.  Note that XSLT is
 - [Tech Blogs shared by Emacs China Forum users](https://emacs-china.org/t/elfeed-tech-feeds-rss/17680) <sup>[1071](https://t.me/s/aboutrss/1071)</sup>
 - [Awesome-techCN-feeds](https://github.com/RSS-Renaissance/awesome-techCN-feeds)
 - [~~Refined Blog~~](https://refined.blog/)
+- [Digest AI](https://digestai.news/) : AI news from 71 curated sources merged into one story per event with every source linked; publishes its own [RSS feed](https://digestai.news/rss.xml), an [AI at Work feed](https://digestai.news/work/rss.xml) and a [podcast feed](https://digestai.news/podcast.xml) ![Online][Online icon]![AI][AI icon]
 
 #### Crypto or Blockchain relevant
 
